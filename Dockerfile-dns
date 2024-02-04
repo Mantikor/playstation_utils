@@ -1,0 +1,5 @@
+FROM technitium/dns-server:latest
+MAINTAINER Mantikor <straltsou.siarhei@gmail.com>
+
+RUN ["mkdir", "/etc/dns"]
+COPY blocked.config /etc/dns
