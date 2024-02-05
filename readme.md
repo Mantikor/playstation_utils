@@ -1,4 +1,4 @@
-# Docker containers for local using. Include last version host files from GamerHack + DNS blocker + simple page for activation GoldHEN (this page avoiding children press other buttons, only for FW 6.72).
+# Docker containers for local using. Latest version GamerHack host + DNS blocker + simple page for activation GoldHEN (this page avoiding children press other buttons, only for FW 6.72).
 
 # Docker контейнеры для локального использования последней версии хоста от GamerHack + блокировщик DNS + упрощённая страница для активации GoldHEN (чтобы дети не нажали лишних кнопок, сделано только для версии ПО 6.72).
 
