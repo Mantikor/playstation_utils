@@ -1,6 +1,6 @@
-# Docker containers for local using. Include last version host files from GamerHack + DNS blocker + simple page for activation last version of GoldHEN (this page avoiding children press other buttons, only for FW 6.72).
+# Docker containers for local using. Include last version host files from GamerHack + DNS blocker + simple page for activation GoldHEN (this page avoiding children press other buttons, only for FW 6.72).
 
-# Docker контейнеры для локального использования последней версии хоста от GamerHack + блокировщик DNS + упрощённая страница для активации последней версии GoldHEN (чтобы дети не нажали лишних кнопок, сделано только для версии ПО 6.72).
+# Docker контейнеры для локального использования последней версии хоста от GamerHack + блокировщик DNS + упрощённая страница для активации GoldHEN (чтобы дети не нажали лишних кнопок, сделано только для версии ПО 6.72).
 
 ![](./img/simple_goldhen.png)
 
@@ -14,6 +14,7 @@
 
 - зайти в папку с файлом `docker-compose.yml`
 - выполнить команду `docker compose up`
+- на консоли в разделе Сеть, в настройках DNS указать ip-адрес устройства, где запущен контейнер
 
 ### Обновление файлов хоста от GamerHack:
 
@@ -48,6 +49,7 @@
 
 - open folder with `docker-compose.yml` inside
 - run command `docker compose up`
+- open Settings on your console, Network, DNS settings, put ip-address of your machine with running container
 
 ### Update host files from GamerHack:
 
