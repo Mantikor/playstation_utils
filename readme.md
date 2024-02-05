@@ -12,9 +12,12 @@
 
 ### Запуск:
 
-- зайти в папку с файлом `docker-compose.yml`
+- установить `git`
+- выполнить команду `git clone https://github.com/Mantikor/playstation_utils`
+- выполнить команду `cd playstation_utils` или зайти в папку, куда клонировали репозиторий (папку с файлом `docker-compose.yml`)
 - выполнить команду `docker compose up`
-- на консоли в разделе Сеть, в настройках DNS указать ip-адрес устройства, где запущен контейнер
+- для блокировки доменов зайти на консоль, выбрать Настройки, в разделе Сеть, в настройках DNS указать ip-адрес устройства, где запущен контейнер
+- ниже смотрите адреса для доступа к утилитам и к активации GoldHEN
 
 ### Обновление файлов хоста от GamerHack:
 
@@ -47,9 +50,12 @@
 
 ### Running:
 
-- open folder with `docker-compose.yml` inside
+- install `git`
+- run command `git clone https://github.com/Mantikor/playstation_utils`
+- run command `cd playstation_utils` or go to the folder where you cloned the repository (folder with file `docker-compose.yml` inside)
 - run command `docker compose up`
-- open Settings on your console, Network, DNS settings, put ip-address of your machine with running container
+- for block domains you need to open Setting on your console, go Network, DNS settings, put ip-address of your machine with running container
+- page links with utilities and DoldHEN activation page see below
 
 ### Update host files from GamerHack:
 
